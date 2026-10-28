@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <section id="center">
-        <p>Alamgir</p>
+        <p>Developed by Alamgir</p>
         <p>Aresur Rahman</p>
         <p>This p tag</p>
         <div class="card"><h3>Business-focused solutions</h3><p>We start from your business goals, not from technology.</p></div>
